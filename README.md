@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexx1-dev&label=Profile%20views&color=0e75b6&style=flat" alt="alexx1-dev" /> </p>
 
-- 🌱 I’m currently learning **Python, and clean coding**
+- 🌱 I’m currently learning **Python, C++ and clean coding**
 
 - ⚡ Important note **I am actually not inactive I just have my repositories private**
 
