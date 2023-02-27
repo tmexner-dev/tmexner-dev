@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Python, C++ and clean coding**
 
-- ⚡ Important note **I am actually not inactive I just have my repositories private**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
