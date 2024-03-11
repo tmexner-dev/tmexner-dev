@@ -5,12 +5,10 @@
   <img src="https://komarev.com/ghpvc/?username=tmexner-dev&label=Profile%20views&color=0e75b6&style=flat" alt="tmexner-dev" />
 </p>
 
-### 🌱 What I'm learning:
-- **JavaScript**: Currently diving deeper into JavaScript and its ecosystem.
-- **Networking**: Expanding my knowledge in computer networks, understanding protocols, and network architecture.
+### 🌱 I’m currently focusing on:
+Fullstack Development - Expanding my skills across both front-end and back-end technologies to build complete web applications.
 
-### 💼 Technical Skills
-#### Languages and Tools:
+### 🛠 Languages
 <p align="left">
   <!-- Bash -->
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
@@ -24,6 +22,18 @@
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
   </a> 
+  <!-- Java -->
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+  </a> 
+  <!-- Python -->
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a> 
+</p>
+
+### 🔧 Tools
+<p align="left">
   <!-- Docker -->
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
@@ -31,10 +41,6 @@
   <!-- Git -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <!-- Java -->
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
   </a> 
   <!-- Linux -->
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
@@ -56,19 +62,16 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
   </a> 
-  <!-- Python -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
   <!-- Spring -->
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
   </a> 
 </p>
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tmexner-dev&show_icons=true&locale=en&layout=compact" alt="tmexner-dev" />
-  <img src="https://github-readme-stats.vercel.app/api?username=tmexner-dev&show_icons=true&locale=en" alt="tmexner-dev" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tmexner-dev" alt="tmexner-dev" />
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tmexner-dev&show_icons=true&locale=en&layout=compact" alt="tmexner-dev" />
 </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tmexner-dev&show_icons=true&locale=en" alt="tmexner-dev" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tmexner-dev&" alt="tmexner-dev" /></p>
