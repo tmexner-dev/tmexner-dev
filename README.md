@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm tmexner-dev</h1>
-<h3 align="center">A trainee as IT professional for software development</h3>
+<h3 align="center">IT professional for software development</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tmexner-dev&label=Profile%20views&color=0e75b6&style=flat" alt="tmexner-dev" />
